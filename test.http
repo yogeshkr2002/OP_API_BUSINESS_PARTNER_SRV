@@ -1,0 +1,3 @@
+### Get 10 Business Partners
+GET http://localhost:4004/odata/v4/business-partner/BusinessPartners
+Accept: application/json
